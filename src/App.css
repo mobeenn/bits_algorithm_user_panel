@@ -1,0 +1,216 @@
+.bg-gradient {
+  background: linear-gradient(
+    126.97deg,
+    rgba(6, 11, 38, 0.74) 28.26%,
+    rgba(26, 31, 55, 0.5) 91.2%
+  );
+}
+.bg-gradient_2 {
+  background: linear-gradient(
+    126.97deg,
+    #060c29 28.26%,
+    rgba(4, 12, 48, 0.5) 91.2%
+  );
+}
+.bg-gradient_3 {
+  background: linear-gradient(
+    126.97deg,
+    rgba(6, 11, 40, 0.74) 28.26%,
+    rgba(14, 21, 58, 0.71) 91.2%
+  );
+}
+.bg-gradient_4 {
+  background: linear-gradient(
+    127.09deg,
+    rgba(6, 11, 40, 0.94) 19.41%,
+    rgba(10, 14, 35, 0.49) 76.65%
+  );
+}
+.bg-gradient_5 {
+  background: linear-gradient(
+    126.97deg,
+    #121a49 28.26%,
+    rgba(4, 12, 48, 0.5) 91.2%
+  );
+}
+.bg-table {
+  background: linear-gradient(
+    126.97deg,
+    rgba(6, 11, 40, 0.74) 28.26%,
+    rgba(10, 14, 35, 0.71) 91.2%
+  );
+}
+.search_members_bg {
+  background: linear-gradient(
+    127.09deg,
+    rgba(6, 11, 40, 0.94) 19.41%,
+    rgba(10, 14, 35, 0.49) 76.65%
+  );
+}
+.bg-select-role {
+  background: linear-gradient(
+    127.09deg,
+    rgba(6, 11, 40, 0.94) 19.41%,
+    rgba(10, 14, 35, 0.49) 76.65%
+  );
+}
+.user_details {
+  background: linear-gradient(
+    112.83deg,
+    rgba(6, 11, 40, 0.94) 0%,
+    rgba(10, 14, 35, 0.62) 110.84%
+  );
+}
+.personal_details {
+  background: linear-gradient(
+    127.09deg,
+    rgba(6, 11, 40, 0.94) 19.41%,
+    rgba(10, 14, 35, 0.49) 76.65%
+  );
+}
+.over-liam {
+  background: linear-gradient(
+    127.09deg,
+    rgba(24, 29, 60, 0.94) 19.41%,
+    rgba(10, 14, 35, 0.49) 76.65%
+  );
+}
+.full_info {
+  background: linear-gradient(
+    127.09deg,
+    rgba(24, 29, 60, 0.94) 19.41%,
+    rgba(10, 14, 35, 0.49) 76.65%
+  );
+}
+.user-will {
+  background: linear-gradient(
+    127.09deg,
+    rgba(24, 29, 60, 0.94) 19.41%,
+    rgba(10, 14, 35, 0.49) 76.65%
+  );
+}
+.personal_details {
+  background: linear-gradient(
+    127.09deg,
+    rgba(6, 11, 40, 0.94) 19.41%,
+    rgba(10, 14, 35, 0.49) 76.65%
+  );
+}
+
+.update {
+  background: linear-gradient(
+    126.97deg,
+    rgba(6, 11, 40, 0.74) 28.26%,
+    rgba(10, 14, 35, 0.71) 91.2%
+  );
+}
+/* hr line */
+.hr_line {
+  border: 1px solid;
+  border-image-source: linear-gradient(
+    90deg,
+    rgba(224, 225, 226, 0) 0%,
+    #e0e1e2 47.22%,
+    rgba(224, 225, 226, 0.15625) 94.44%
+  );
+  border-image-slice: 1;
+  width: 150px;
+}
+.target_status {
+  background: linear-gradient(
+    127.09deg,
+    rgba(6, 11, 40, 0.94) 19.41%,
+    rgba(10, 14, 35, 0.49) 76.65%
+  );
+  background: linear-gradient(
+    127.09deg,
+    rgba(24, 29, 60, 0.94) 19.41%,
+    rgba(10, 14, 35, 0.49) 76.65%
+  );
+}
+.notification {
+  background: linear-gradient(
+    210.96deg,
+    rgba(6, 11, 40, 0.94) 0.01%,
+    rgba(10, 14, 35, 0.49) 104.81%
+  );
+}
+/* custom scroll bar */
+
+.scroll-container::-webkit-scrollbar {
+  width: 6px;
+}
+
+.scroll-container::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+.scroll-container::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+.scroll-container::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+.btn {
+  background: linear-gradient(
+    126.97deg,
+    rgba(6, 11, 40, 0.74) 28.26%,
+    rgba(10, 14, 35, 0.71) 91.2%
+  );
+}
+.btn-submit-will {
+  background: linear-gradient(180deg, #357878 0%, #4da8a8 100%);
+}
+.pop-up {
+  background: linear-gradient(
+    210.96deg,
+    rgb(6 7 10 / 94%) 0.01%,
+    rgba(10, 14, 35, 0.49) 104.81%
+  );
+}
+.pop-input {
+  background: linear-gradient(
+    210.96deg,
+    rgba(6, 11, 40, 0.94) 0.01%,
+    rgba(10, 14, 35, 0.49) 104.81%
+  );
+}
+
+/*notification check */
+.check {
+  background: linear-gradient(213.66deg, #16b4eb 4.85%, #23e73c 119.17%);
+}
+/* progrees */
+.CircularProgressbar .CircularProgressbar-trail {
+  stroke: #d6d6d600 !important;
+  stroke-linecap: round;
+}
+
+.progress-container {
+  position: relative;
+  width: 200px;
+  height: 200px;
+}
+
+.progress-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  font-size: 14px;
+}
+
+svg {
+  overflow: visible;
+}
+/* bg-bar */
+
+/*  removing the arrows from the input field */
+/* Remove arrow from number input fields */
+input[type="number"] {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
